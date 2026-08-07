@@ -1,2 +1,2 @@
 # visao-computacional
-Experimentos relacionados ao estudo de Visão Computacional. 
+Estudos e experimentos relacionados a Visão Computacional. 
